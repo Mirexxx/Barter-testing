@@ -10,7 +10,7 @@
 ,,,,,,"Check on ""Terms and Conditions""",checked on," ",,,,,,,,,,,,,
 ,,,,,,"Press ""Register"" Button",,"An error message is displayed ",,,,,,,,,,,,,
 2,MB-TC-3,Verifying First Name with empty field,Verifying First Name with empty field and other fields should have valid entries,The application is running .,,"First name field is empty
-",," ",,,Mircea Filipescu,High,Published,,,,,Sign-Up Scenario,Manual,Mircea Filipescu,
+",," ",,,Mircea Filipescu,Medium,Published,,,,,Sign-Up Scenario,Manual,Mircea Filipescu,
 ,,,,,,Insert a valid Surname,Ionel," ",,,,,,,,,,,,,
 ,,,,,,Insert a valid phone number,0777111222," ",,,,,,,,,,,,,
 ,,,,,,"insert alias name ",rocket20," ",,,,,,,,,,,,,
