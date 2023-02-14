@@ -1,0 +1,21 @@
+﻿,S.NO.,Key,Title,Description,Pre-condition,BDDKeyword,Steps,Data,Expected Result,Folder,Requirements,Owner,Priority,Status,Type,Release,Component,Estimated Effort(in mins),Tags,Automation Status,Automation Owner,Automation Key
+1,MB-TC-2,"Verifying First Name with special characters ",Verifying First Name with special characters and other should have valid entries,"The other fields must have valid entries and the ""Terms and conditions"" checkbox should be checked-on .",,"Insert First Name with special characters
+",Popescu&*^," ",,,Mircea Filipescu,High,Published,,,,,Sign-Up Scenario,Manual,Mircea Filipescu,
+,,,,,,Insert a valid Surname,Ionel," ",,,,,,,,,,,,,
+,,,,,,Insert a valid phone number,0777111222," ",,,,,,,,,,,,,
+,,,,,,"insert alias name ",rocket20," ",,,,,,,,,,,,,
+,,,,,,Insert a valid email,"tester1@yahoo.com (Link: mailto:tester1@yahoo.com ) "," ",,,,,,,,,,,,,
+,,,,,,insert a valid password,12345_Aa," ",,,,,,,,,,,,,
+,,,,,,Retyping  the same password,12345_Aa," ",,,,,,,,,,,,,
+,,,,,,"Check on ""Terms and Conditions""",checked on," ",,,,,,,,,,,,,
+,,,,,,"Press ""Register"" Button",,"An error message is displayed ",,,,,,,,,,,,,
+2,MB-TC-3,Verifying First Name with empty field,Verifying First Name with empty field and other fields should have valid entries,The application is running .,,"First name field is empty
+",," ",,,Mircea Filipescu,High,Published,,,,,Sign-Up Scenario,Manual,Mircea Filipescu,
+,,,,,,Insert a valid Surname,Ionel," ",,,,,,,,,,,,,
+,,,,,,Insert a valid phone number,0777111222," ",,,,,,,,,,,,,
+,,,,,,"insert alias name ",rocket20," ",,,,,,,,,,,,,
+,,,,,,Insert a valid email,"tester1@yahoo.com (Link: mailto:tester1@yahoo.com ) "," ",,,,,,,,,,,,,
+,,,,,,insert a valid password,12345_Aa," ",,,,,,,,,,,,,
+,,,,,,Retyping  the same password,12345_Aa," ",,,,,,,,,,,,,
+,,,,,,"Check on ""Terms and Conditions""",checked on," ",,,,,,,,,,,,,
+,,,,,,"Press ""Register"" Button",,"An error message is displayed ",,,,,,,,,,,,,
